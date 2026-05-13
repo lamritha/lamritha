@@ -13,7 +13,7 @@ A full-stack web app where users can search books via the Open Library API, crea
 
 **Stack:** Next.js · Express.js · MongoDB · JWT · React Bootstrap · SWR
 
-[→ View Repo](#)
+[→ View Repo]([#](https://fullstack-book-search-app.vercel.app/))
 
 ---
 
@@ -22,7 +22,7 @@ A server-rendered project management platform with full CRUD, session-based auth
 
 **Stack:** Node.js · Express.js · PostgreSQL · MongoDB · Sequelize · Mongoose
 
-[→ View Repo](#)
+[→ View Repo]([#](https://fullstack-project-management-app.vercel.app/))
 
 ---
 
@@ -31,7 +31,7 @@ Collaborated on a large-scale data pipeline to clean and transform messy real-wo
 
 **Stack:** Python · CSV processing · data cleaning pipelines
 
-[→ View Repo](#)
+[→ View Repo]([#](https://github.com/lamritha/olympic-dataset-processing-system))
 
 ---
 
@@ -40,7 +40,7 @@ Built during an AI design sprint: a concept app that generates personalized dess
 
 **Stack:** Gemini API · prompt engineering · rapid prototyping
 
-[→ View Repo](#)
+[→ View Repo]([#](https://sweetscale.vercel.app/))
 
 ---
 
@@ -68,4 +68,4 @@ Built during an AI design sprint: a concept app that generates personalized dess
 
 ## 📫 Let's connect
 
-[LinkedIn](#) · [Email](#)
+[LinkedIn](#) · [Email](amriling06@gmail.com)
