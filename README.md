@@ -15,7 +15,7 @@ A full-stack web app where users can search books via the Open Library API, crea
 
 **Stack:** Next.js · Express.js · MongoDB · JWT · React Bootstrap · SWR
 
-[→ View Repo](https://fullstack-book-search-app.vercel.app/)
+[→ View Repo](https://github.com/lamritha/fullstack-book-search-app)
 
 ---
 
@@ -24,7 +24,7 @@ A server-rendered project management platform with full CRUD, session-based auth
 
 **Stack:** Node.js · Express.js · PostgreSQL · MongoDB · Sequelize · Mongoose
 
-[→ View Repo](https://fullstack-project-management-app.vercel.app/)
+[→ View Repo](https://github.com/lamritha/fullstack-project-management-app)
 
 ---
 
@@ -42,7 +42,7 @@ Built during an AI design sprint: a concept app that generates personalized dess
 
 **Stack:** Gemini API · prompt engineering · rapid prototyping
 
-[→ View Repo](https://sweetscale.vercel.app/)
+[→ View Repo](https://github.com/lamritha/sweetscale)
 
 ---
 
