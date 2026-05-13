@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hey, I'm Amritha 👋
 
-<!--
-**lamritha/lamritha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Seneca Polytechnic who builds full-stack apps, digs into backend systems, and actually finishes projects. Math tutor — so I'm used to breaking down hard problems and explaining them clearly.
 
-Here are some ideas to get you started:
+Currently looking for a **Fall 2026 co-op** where I can contribute from day one.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔨 What I've Built
+
+### 📚 Full-Stack Book Search App
+A full-stack web app where users can search books via the Open Library API, create accounts, and save favourites — with JWT auth handling the whole session flow.
+
+**Stack:** Next.js · Express.js · MongoDB · JWT · React Bootstrap · SWR
+
+[→ View Repo](#)
+
+---
+
+### 📋 Project Management App
+A server-rendered project management platform with full CRUD, session-based auth, and a dual-database setup — PostgreSQL for relational data, MongoDB for flexibility.
+
+**Stack:** Node.js · Express.js · PostgreSQL · MongoDB · Sequelize · Mongoose
+
+[→ View Repo](#)
+
+---
+
+### 🏅 Olympic Data Processing Pipeline
+Collaborated on a large-scale data pipeline to clean and transform messy real-world Olympic datasets. My focus was date normalization, caching for performance, and generating clean analytical outputs from inconsistent source data.
+
+**Stack:** Python · CSV processing · data cleaning pipelines
+
+[→ View Repo](#)
+
+---
+
+### 🍰 SweetScale — AI Design Sprint (2nd Place)
+Built during an AI design sprint: a concept app that generates personalized dessert plans for small businesses based on budget, guest count, and event theme. Won second place.
+
+**Stack:** Gemini API · prompt engineering · rapid prototyping
+
+[→ View Repo](#)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript · Python · C · C++ · SQL
+
+**Frontend:** React · Next.js · Tailwind CSS · HTML/CSS
+
+**Backend:** Node.js · Express.js · REST APIs · JWT Auth
+
+**Databases:** PostgreSQL · MongoDB · Sequelize · Mongoose
+
+**Tools:** Git · Vercel · VS Code · Cursor
+
+---
+
+## 🌱 Currently Exploring
+
+- RAG systems and practical AI integration in web apps
+- Cloud infrastructure and containerization with Docker
+- Scalable backend architecture
+
+---
+
+## 📫 Let's connect
+
+[LinkedIn](#) · [Email](#)
