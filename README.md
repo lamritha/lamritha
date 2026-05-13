@@ -1,6 +1,7 @@
 # Hey, I'm Amritha 👋
 
-CS student at Seneca Polytechnic who builds full-stack apps, digs into backend systems, and actually finishes projects. Math tutor — so I'm used to breaking down hard problems and explaining them clearly.
+Computer Programming & Analysis student at Seneca Polytechnic who builds full-stack apps, digs into backend systems, and actually finishes projects. 
+Math tutor — so I'm used to breaking down hard problems and explaining them clearly.
 
 Currently looking for a **Fall 2026 co-op** where I can contribute from day one.
 
