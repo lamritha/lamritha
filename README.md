@@ -54,7 +54,7 @@ Built during an AI design sprint: a concept app that generates personalized dess
 
 **Backend:** Node.js · Express.js · REST APIs · JWT Auth
 
-**Databases:** PostgreSQL · MongoDB · Sequelize · Mongoose
+**Databases:** PostgreSQL · MongoDB · Sequelize 
 
 **Tools:** Git · Vercel · VS Code · Cursor
 
@@ -70,4 +70,4 @@ Built during an AI design sprint: a concept app that generates personalized dess
 
 ## 📫 Let's connect
 
-[LinkedIn](#) · [Email](amriling06@gmail.com)
+[LinkedIn](www.linkedin.com/in/amritha-lingeswaran-9a4437333) · [Email](amriling06@gmail.com)
