@@ -8,44 +8,6 @@ Currently looking for a **Fall 2026 co-op** where I can contribute from day one.
 
 ---
 
-## 🔨 What I've Built
-
-### 📚 Full-Stack Book Search App
-A full-stack web app where users can search books via the Open Library API, create accounts, and save favourites — with JWT auth handling the whole session flow.
-
-**Stack:** Next.js · Express.js · MongoDB · JWT · React Bootstrap · SWR
-
-[→ View Repo](https://github.com/lamritha/fullstack-book-search-app)
-
----
-
-### 📋 Project Management App
-A server-rendered project management platform with full CRUD, session-based auth, and a dual-database setup — PostgreSQL for relational data, MongoDB for flexibility.
-
-**Stack:** Node.js · Express.js · PostgreSQL · MongoDB · Sequelize · Mongoose
-
-[→ View Repo](https://github.com/lamritha/fullstack-project-management-app)
-
----
-
-### 🏅 Olympic Data Processing Pipeline
-Collaborated on a large-scale data pipeline to clean and transform messy real-world Olympic datasets. My focus was date normalization, caching for performance, and generating clean analytical outputs from inconsistent source data.
-
-**Stack:** Python · CSV processing · data cleaning pipelines
-
-[→ View Repo](https://github.com/lamritha/olympic-dataset-processing-system)
-
----
-
-### 🍰 SweetScale — AI Design Sprint (2nd Place)
-Built during an AI design sprint: a concept app that generates personalized dessert plans for small businesses based on budget, guest count, and event theme. Won second place.
-
-**Stack:** Gemini API · prompt engineering · rapid prototyping
-
-[→ View Repo](https://github.com/lamritha/sweetscale)
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -83,6 +45,44 @@ Built during an AI design sprint: a concept app that generates personalized dess
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+---
+
+## 🔨 What I've Built
+
+### 📚 Full-Stack Book Search App
+A full-stack web app where users can search books via the Open Library API, create accounts, and save favourites — with JWT auth handling the whole session flow.
+
+**Stack:** Next.js · Express.js · MongoDB · JWT · React Bootstrap · SWR
+
+[→ View Repo](https://github.com/lamritha/fullstack-book-search-app)
+
+---
+
+### 📋 Project Management App
+A server-rendered project management platform with full CRUD, session-based auth, and a dual-database setup — PostgreSQL for relational data, MongoDB for flexibility.
+
+**Stack:** Node.js · Express.js · PostgreSQL · MongoDB · Sequelize · Mongoose
+
+[→ View Repo](https://github.com/lamritha/fullstack-project-management-app)
+
+---
+
+### 🏅 Olympic Data Processing Pipeline
+Collaborated on a large-scale data pipeline to clean and transform messy real-world Olympic datasets. My focus was date normalization, caching for performance, and generating clean analytical outputs from inconsistent source data.
+
+**Stack:** Python · CSV processing · data cleaning pipelines
+
+[→ View Repo](https://github.com/lamritha/olympic-dataset-processing-system)
+
+---
+
+### 🍰 SweetScale — AI Design Sprint (2nd Place)
+Built during an AI design sprint: a concept app that generates personalized dessert plans for small businesses based on budget, guest count, and event theme. Won second place.
+
+**Stack:** Gemini API · prompt engineering · rapid prototyping
+
+[→ View Repo](https://github.com/lamritha/sweetscale)
 
 ---
 
