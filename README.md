@@ -96,4 +96,4 @@ Built during an AI design sprint: a concept app that generates personalized dess
 
 ## 📫 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/amritha-lingeswaran-9a4437333/) · [Email](mailto:amriling06@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/amritha-lingeswaran/) · [Email](mailto:amriling06@gmail.com)
