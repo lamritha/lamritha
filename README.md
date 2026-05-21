@@ -84,13 +84,22 @@ Built during an AI design sprint: a concept app that generates personalized dess
 
 [→ View Repo](https://github.com/lamritha/sweetscale)
 
+### 🏦 Mortgage Loan Management API *(In Progress)*
+A backend REST API for processing mortgage loan applications with an automated approval engine based on real banking criteria 
+— credit scoring, debt-to-income ratio, and down payment rules 
+— plus monthly payment calculation and amortization schedule generation.  
+
+**Stack:** C# · ASP.NET Core · Entity Framework Core · SQLite · Swagger  
+
+[→ View Repo](https://github.com/lamritha/mortgage-loan-api)
+
 ---
 
 ## 🌱 Currently Exploring
 
+- C# · ASP.NET Core · enterprise backend architecture
 - RAG systems and practical AI integration in web apps
 - Cloud infrastructure and containerization with Docker
-- Scalable backend architecture
 
 ---
 
