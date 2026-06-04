@@ -50,6 +50,24 @@ Currently looking for a **Fall 2026 co-op** where I can contribute from day one.
 
 ## 🔨 What I've Built
 
+### ⚡ TenantIQ — Seneca Energy Hackathon 2026 (Finalist — Top 4 of 20 Teams)
+An energy equity platform for Toronto renters and city planners. Features AI-powered utility bill analysis, government assistance program matching, and a live community energy burden map across Toronto neighbourhoods.
+
+**Stack:** Next.js 15 · React 19 · Groq API · Firebase Firestore · Leaflet · Tailwind CSS · Toronto Open Data
+
+[→ View Repo](https://github.com/lamritha/tenantiq)
+
+---
+
+### 🍰 SweetScale — AI Design Sprint (2nd Place)
+Built during an AI design sprint: a concept app that generates personalized dessert plans for small businesses based on budget, guest count, and event theme. Won second place.
+
+**Stack:** Gemini API · prompt engineering · rapid prototyping
+
+[→ View Repo](https://github.com/lamritha/sweetscale)
+
+---
+
 ### 📚 Full-Stack Book Search App
 A full-stack web app where users can search books via the Open Library API, create accounts, and save favourites — with JWT auth handling the whole session flow.
 
@@ -76,13 +94,6 @@ Collaborated on a large-scale data pipeline to clean and transform messy real-wo
 [→ View Repo](https://github.com/lamritha/olympic-dataset-processing-system)
 
 ---
-
-### 🍰 SweetScale — AI Design Sprint (2nd Place)
-Built during an AI design sprint: a concept app that generates personalized dessert plans for small businesses based on budget, guest count, and event theme. Won second place.
-
-**Stack:** Gemini API · prompt engineering · rapid prototyping
-
-[→ View Repo](https://github.com/lamritha/sweetscale)
 
 ### 🏦 Mortgage Loan Management API *(In Progress)*
 A backend REST API for processing mortgage loan applications with an automated approval engine based on real banking criteria 
